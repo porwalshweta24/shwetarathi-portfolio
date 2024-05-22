@@ -18,6 +18,15 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
+     <li class="nav-item dropdown submenu">
+         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           Blog
+         </a>
+         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+           <li class="nav-item"><a class="nav-link" href="https://iamshwetarathi.blogspot.com/">Tech Blog</a></li>
+           <li class="nav-item"><a class="nav-link" href="404.html">Travel Blog</a></li>
+         </ul>
+     </li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
 
