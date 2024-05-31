@@ -24,7 +24,7 @@ let header = $(`
          </a>
          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
            <li class="nav-item"><a class="nav-link" href="https://iamshwetarathi.blogspot.com/">Tech Blog</a></li>
-           <li class="nav-item"><a class="nav-link" href="404.html">Travel Blog</a></li>
+           <li class="nav-item"><a class="nav-link" href="travel-blog.html">Travel Blog</a></li>
          </ul>
      </li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
