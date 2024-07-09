@@ -216,6 +216,12 @@ const moocscards = [
                       cardImage: "assets/images/library/book_light.jpg",
                       moocLink: "https://drive.google.com/file/d/1J8C1kE1NgvsFGA6suJdd_VJBC5hYcgMV/view?usp=sharing",
        },
+  {
+                      title: "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+                      cardImage: "assets/images/library/book_light.jpg",
+                      moocLink: "https://drive.google.com/file/d/1eu8fcrkSaPg8OJp32k6v5X0iDshXe-rL/view?usp=sharing",
+       },
+
 
 ];
 
