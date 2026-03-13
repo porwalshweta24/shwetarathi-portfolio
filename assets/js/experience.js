@@ -5,11 +5,18 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+   {
+    title: "Technical Lead",
+    cardImage: "assets/images/experience-page/hcl.png",
+    place: "HCLTech",
+    time: "(January, 2025 - Present)",
+    desp: "<li>Working in the Banking domain for ING bank, driving backend and containerized solutions</li> <li> Implemented CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable delivery of software artifacts.</li> <li>Drive a culture of ownership and technical excellence, including reactive work such as incident escalations.</li>",
+  },
   {
     title: "Senior Android Engineer",
     cardImage: "assets/images/experience-page/backbase.png",
     place: "Backbase",
-    time: "(December, 2022 - Present)",
+    time: "(December, 2022 - January, 2025)",
     desp: "<li>Working in the Banking domain for SNB Neo bank, open banking live and having 1M+ downloads, WSECU azure devops and SSB Retail bank retail project</li> <li> Good understanding of security mechanisms, like Android KeyStore, encryption, SSL pinning and hardening (ProGuard, DexGuard or similar).</li> <li>Earned SAFe 6.0 certification. Monitored and trained team to work on Agile and Scrum platform development follow best practice.</li>",
   },
   {
@@ -29,7 +36,7 @@ const exp = [
   {
       title: "Lead Engineer",
       cardImage: "assets/images/experience-page/hcl.png",
-      place: "HCL",
+      place: "HCLTech",
       time: "(Feb, 2018 - April, 2020)",
       desp: " <li>Worked on Soehnle Connect application having 1L+ downloads.</li><li>Developed IOT, Bluetooth based android applications for a client of health and tracking domain, which achieved 90% accuracy, and was delivered on time and within budget.</li><li>Mentored 2 interns to optimize BLE algorithm and to include the multiple devices, increasing overall speed by 75%.</li>",
   },
