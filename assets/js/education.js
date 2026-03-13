@@ -4,6 +4,31 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
+   {
+    title: "GH-300 - GitHub Copilot",
+    cardImage: "assets/images/education-page/microsoft.jpg",
+    moocLink: "https://learn.microsoft.com/en-us/users/shwetaporwal-5059/credentials/88c03c9d565393b?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+  },
+   {
+    title: "Blue Security Champions",
+    cardImage: "assets/images/education-page/secureflag.jpg",
+    moocLink: "https://www.secureflag.com/s?b169aab8-2e63-4534-b88c-e11757bd5062",
+  },
+  {
+    title: "Microsoft Certified: DevOps Engineer Expert",
+    cardImage: "assets/images/education-page/microsoft.jpg",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/ShwetaRathi-2208/CF4C06DDEB98DA7B?sharingId",
+  },
+   {
+    title: "Microsoft Certified: Azure Administrator Associate",
+    cardImage: "assets/images/education-page/microsoft.jpg",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-in/ShwetaRathi-2208/63A430BB78357D3E?sharingId",
+  },
+   {
+    title: "Microsoft Certified: Azure Solutions Architect Expert",
+    cardImage: "assets/images/education-page/microsoft.jpg",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-in/ShwetaRathi-2208/F162AA9EE2823A79?sharingId",
+  },
   {
     title: "IBM Agile Explorer",
     cardImage: "assets/images/education-page/ibm.jpg",
